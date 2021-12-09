@@ -12,5 +12,6 @@
     "login"
   ],
   "author": "The shy",
-  "license": "ISC"
+  "license": "GNU",
+  "git repository":"https://github.com/Rogister-jycy/NodejsMongodbLog"
 }
