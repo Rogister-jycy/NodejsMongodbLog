@@ -11,7 +11,7 @@
     "mongodb",
     "login"
   ],
-  "author": "The shy",
+  "author": "Rogister-jycy",
   "license": "GNU",
   "git repository": "https://github.com/Rogister-jycy/NodejsMongodbLog",
   "dependencies": {
